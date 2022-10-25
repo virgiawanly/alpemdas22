@@ -30,7 +30,7 @@ int main()
         }
         else
         {
-            grade = 'D';
+            grade = 'E';
         }
         cout << "Nilai anda adalah\t: " << grade;
     }

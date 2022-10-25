@@ -54,7 +54,7 @@ int main()
     else
     {
         max = input3;
-        min = input1 < input2 ? input1 : input3;
+        min = input1 < input2 ? input1 : input2;
     }
 
     // max = (input1 > input2 && input1 > input3) ? input1 : ((input2 > input3) ? input2 : input3);
