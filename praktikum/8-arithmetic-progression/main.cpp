@@ -18,4 +18,6 @@ int main()
     sn = n * (2 * a + (n - 1) * b) / 2;
     cout << endl;
     cout << "Sigma N\t\t\t: " << sn << endl;
+
+    return 0;
 }
